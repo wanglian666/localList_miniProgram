@@ -1,0 +1,7 @@
+.num-item {
+  border: 1px solid #efefef;
+  line-height: 200rpx;
+  text-align: center;
+  margin: 10rpx;
+  border-radius: 10rpx;
+}
